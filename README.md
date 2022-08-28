@@ -1,4 +1,4 @@
-### Hellllloooo <img src="https://tenor.com/view/good-afternoon-hand-waves-hello-hand-wave-waving-hand-gif-13008469735552111895">, I welcome you to my GitHub homepage. I am Yuriy and I am glad you came by to checkout my workspace.
+### Hellllloooo <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836">, I welcome you to my GitHub homepage. I am Yuriy and I am glad you came by to checkout my workspace.
 
 <!--
 **WhyTTea/WhyTTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
