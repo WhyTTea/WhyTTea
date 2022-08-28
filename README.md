@@ -3,7 +3,7 @@
 <!--
 **WhyTTea/WhyTTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Alt Text](https://tenor.com/view/red-panda-attention-red-panda-lesser-panda-gif-26001355)
+<div class="tenor-gif-embed" data-postid="26001355" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/red-panda-attention-red-panda-lesser-panda-gif-26001355">Red Panda Attention Lesser Panda GIF</a>from <a href="https://tenor.com/search/red+panda+attention-gifs">Red Panda Attention GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently studying a double-major in Computer Science and Commerce at University of Toronto.
 - 🌱 My current goal is to become a great-quality Software Engineer and to learn best practices in creation of products (both digital and tangible) to be used in everyday life by millions of people.
