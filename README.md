@@ -8,4 +8,9 @@
 - 📫 How to reach me: wanna make a pull request? 😉
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: Did you know that Nike was not the favourite name among all potential names when Philip Knight (founder of Nike) was starting to produce his own shoes (he used to be a distributor for many years before this happened)? Do you know what Nike was actually supposed to be called, hehe? 
+<details>
+<summary>- ⚡ Fun fact: Did you know that Nike was not the favourite name among all potential names when Philip Knight (founder of Nike) was starting to produce his own shoes (he used to be a distributor for many years before this happened)? Do you know what Nike was actually supposed to be called, hehe? </summary>
+<br>
+Dimension Six
+</details>
 
