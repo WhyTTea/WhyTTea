@@ -3,8 +3,8 @@
 <!--
 **WhyTTea/WhyTTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently studying a double-major in Computer Science and Commerce at University of Toronto.
-- 🌱 I’m currently learning how to become a great-quality Software Engineer and best practices in creation of products to be used in everyday life by millions of people.
+- 🌱 My current goal is to become a great-quality Software Engineer and to learn best practices in creation of products (both digital and tangible) to be used in everyday life by millions of people.
 - 📫 How to reach me: message me here first
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Did you know that both Nike and Apple were not the favourite names before they were chosen for their respective companies we know nowadays? Do you know what Nike or Apple was supposed to be called in the blueprints, hehe? 
 
