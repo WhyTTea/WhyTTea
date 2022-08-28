@@ -3,7 +3,7 @@
 <!--
 **WhyTTea/WhyTTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Alt Text](https://media.giphy.com/media/cZVhsLGwLlfgrvejhS/giphy.gif)
+![Alt Text](https://media.giphy.com/media/H6VSByAkTsrTO/giphy.gif)
 
 - 🔭 I’m currently studying a double-major in Computer Science and Commerce at University of Toronto.
 - 🌱 My current goal is to become a great-quality Software Engineer and to learn best practices in creation of products (both digital and tangible) to be used in everyday life by millions of people.
