@@ -1,6 +1,6 @@
 ### Hellooo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I welcome you to my GitHub homepage. 
 
-I am WhyTTea (can be pronounced in many cool ways or simply Y-T) and I am glad you came by to checkout my workspace.
+I am <b>WhyTTea</b> (can be pronounced in many cool ways or simply Y-T) and I am glad you came by to checkout my workspace.
 
 <!--
 **WhyTTea/WhyTTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
