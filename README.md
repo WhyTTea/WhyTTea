@@ -29,7 +29,9 @@ It appeared as if nobody liked any of the options. But due to them being on crun
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="50" height="50" />
+<img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" />
+<img src="https://alternative.me/media/256/wing-ide-icon-zsugwq5o087wnsry-c.png" alt="Wing" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
-<img src = "https://www.redbubble.com/shop/visual+basic+icon" alt="Visual Basic" width="50" height="50" />
+<img src = "https://www.redbubble.com/shop/visual+basic+icon" alt="PyCharm" width="50" height="50" />
 
