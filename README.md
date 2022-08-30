@@ -16,3 +16,6 @@ Among all options, "Dimension Six" was offered by the founder himself. Other emp
 It appeared as if nobody liked any of the options. But due to them being on crunch of time, Knight made a choice to go with Nike and said the following: "I don’t like any of them, but I guess that’s the best of the bunch. I hope it grows on me.”
 </details>
 
+## 🧰 Programming Languages and Tools:
+
+
