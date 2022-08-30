@@ -38,4 +38,4 @@ It appeared as if nobody liked any of the options. But due to them being on crun
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cHsa97XZNRBNMku8ApdbFENz_ce1x0nBLCp0dxAlTw&s" alt="Overleaf" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> and MiniKanren (no icon can be found as of this day)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyTTea&count_private=true&include_all_commits=true&layout=compact&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,FFB6B9,FAE3D9,BBDED6,61C0BF)](https://github.com/WhyTTea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyTTea&count_private=true&include_all_commits=true&layout=compact&border_color=FFFFFF&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,FFB6B9,FAE3D9,BBDED6,61C0BF)](https://github.com/WhyTTea/github-readme-stats)
