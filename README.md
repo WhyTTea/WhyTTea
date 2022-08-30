@@ -34,5 +34,6 @@ It appeared as if nobody liked any of the options. But due to them being on crun
 <img src="https://alternative.me/media/256/wing-ide-icon-zsugwq5o087wnsry-c.png" alt="Wing" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt="MS Office" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="50" height="50"/> and MiniKanren (no icon can be found as of this day)
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cHsa97XZNRBNMku8ApdbFENz_ce1x0nBLCp0dxAlTw&s" alt="Overleaf" width="50" height="50"/>and MiniKanren (no icon can be found as of this day)
 
