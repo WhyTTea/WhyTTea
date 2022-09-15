@@ -22,6 +22,7 @@ It appeared as if nobody liked any of the options. But due to them being on crun
 <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
 <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+<img src= "https://github.com/WhyTTea/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg" alt="Haskell" width="50" height="50" />
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" alt="Racket" width="50" height="50" />
 <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" />
